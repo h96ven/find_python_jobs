@@ -22,7 +22,7 @@ pipenv install
 
 1. Run the app.py script
 
-2. The script will save the job data to a text file named jobs.txt in the saved scrapes directory.
+2. The script will save the job data to a text file named jobs.txt in the 'saved scrapes' directory.
 
 ## License
 
