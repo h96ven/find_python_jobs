@@ -1,6 +1,6 @@
 # find_python_jobs
 
-This is a simple Python script that is a web scraper (or crawler). It scrapes job postings from the Work.ua website and saves the job title, company name, and job link to a text file.
+This is a simple Python script that is a web scraper (or crawler). It scrapes Python Developer job postings from the Work.ua website and saves the job title, company name, and job link to a text file.
 
 
 ## Installation
