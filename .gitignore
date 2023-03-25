@@ -348,3 +348,23 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Files and directories created by Visual Studio Code
+.vscode/
+.vs/
+
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+dist/
+out/
+
+# Logs and other generated files
+*.log
+*.swp
+*.swo
+
+# Other common files to ignore
+.DS_Store
+Thumbs.db
